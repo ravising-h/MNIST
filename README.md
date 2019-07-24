@@ -5,5 +5,5 @@ I achivied an accuracy of `0.994%` from this model
 I have further achivied Accuracy of `0.9964%` with different models and combination of them.
 ### My Kernal
 #### https://www.kaggle.com/rsingh99/simple-cnn-for-mnist?scriptVersionId=17577361
-### Competion 
+### Competition 
 #### https://www.kaggle.com/c/digit-recognizer
