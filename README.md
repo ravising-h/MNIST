@@ -7,3 +7,6 @@ I have further achivied Accuracy of `0.9964%` with different models and combinat
 #### https://www.kaggle.com/rsingh99/simple-cnn-for-mnist?scriptVersionId=17577361
 ### Competition 
 #### https://www.kaggle.com/c/digit-recognizer
+
+Made a site which runs this model and predict number written from mouse. credit siraj raval.
+![Site](https://github.com/ravising-h/MNIST/blob/master/Images/site.png)
